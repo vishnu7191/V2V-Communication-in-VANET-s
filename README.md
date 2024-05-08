@@ -25,6 +25,7 @@ Step-1: TOOLS REQUIRED
 --> Pytorch
 
 ==========================================================
+
 Step-2: Installing Python & Pychram
 
 == Install Python Libraries ==
@@ -37,6 +38,7 @@ Step-2: Installing Python & Pychram
 --> Request
 
 ==========================================================
+
 Step-3: Implementation
 
 --> Open Navigator
@@ -46,6 +48,7 @@ Step-3: Implementation
 --> Handling user input
 
 ==========================================================
+
 Step-4: Process of Execution
 
 --> open anaconda navigator select dataset file form the floder
