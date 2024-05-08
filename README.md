@@ -1,19 +1,12 @@
-
 ==========================================================
-
                   README BEFORE START
-
 ==========================================================
-
-Follow the Step-by-Step Operating Procedure Guide
-
+    Follow the Step-by-Step Operating Procedure Guide
 ----------------------------------------------------------
              Title of the Project
 ----------------------------------------------------------
-
 Enhancing Secure Communication in VANETs with Blockchain and 
               Privacy Using PSOACO Algorithm
-
 ----------------------------------------------------------
  
 Step-1: TOOLS REQUIRED
