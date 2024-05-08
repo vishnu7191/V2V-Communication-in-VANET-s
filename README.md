@@ -23,10 +23,9 @@ Step-1: TOOLS REQUIRED
 --> OPEN CV
 --> ANACONDA
 --> Pytorch
-
 ==========================================================
-Step-2: Installing Python & Pychram
 
+Step-2: Installing Python & Pychram
 == Install Python Libraries ==
 == Some the libraries ==
 --> Pandas
@@ -35,19 +34,17 @@ Step-2: Installing Python & Pychram
 --> Scikit-Learn
 --> TextBlob
 --> Request
-
 ==========================================================
-Step-3: Implementation
 
+Step-3: Implementation
 --> Open Navigator
 --> Data Selection
 --> Run run Code
 --> Build the Network
 --> Handling user input
-
 ==========================================================
-Step-4: Process of Execution
 
+Step-4: Process of Execution
 --> open anaconda navigator select dataset file form the floder
      source code & import it to current file location
 --> To run the code there two options the anaconda navigator
@@ -64,7 +61,5 @@ Step-4: Process of Execution
 --> The PSOACO algoritm will give the shortest distance (Path) form
     source to destination node.
 --> Then a popup window will alert the vehicle will Attack / Non-Attack
-    
-
 
 
