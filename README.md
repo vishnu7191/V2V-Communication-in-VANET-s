@@ -69,34 +69,34 @@ Step-3: Implementation
 
 Step-4: Process of Execution
 
---> open anaconda navigator select dataset file form the folder
+--> Open Anaconda Navigator and select the dataset file from the folder
 
-     source code & import it to current file location
+     source code & import it to the current file location
      
---> To run the code there two options the anaconda navigator
+--> To run the code there are two options the anaconda navigator
 
-    one is open file and run the code and another one is To run 
+    one is to open a file and run the code and the other is To run 
     
     code in Anaconda Navigator, you can use the keyboard shortcut
     
     Ctrl + Enter or Ctrl + Return in macOS
     
 
---> Then popup Window will appers asking like enter number of nodes,
+--> Then a popup Window will appear asking to enter the number of nodes,
 
-     give as a input in integer value.
+     give as an input in an integer value.
 
---> later provide source node (Start node) in integer value.
+--> Later provide the source node (Start node) an integer value.
 
---> also provide destination node (end node) in a network
+--> also provides destination node (end node) in a network
 
---> And finally enter a OTFS in integer value.
+--> And finally enter an OTFS in integer value.
 
---> It check's the all possible ways to reach the 
+--> It checks all possible ways to reach the 
 
-    source to destination node.
---> The PSOACO algoritm will give the shortest distance (Path) form
-    source to destination node.
+    source to the destination node.
+--> The PSOACO algorithm will give the shortest distance (Path) form
+    the source to the destination node.
 --> Then a popup window will alert the vehicle will Attack / Non-Attack
     
 
